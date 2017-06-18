@@ -15,4 +15,5 @@ location:
     lon: -122.439255
     lat: 47.244719
 hiatus: False
+start_time: 5:00 pm PDT
 ---
